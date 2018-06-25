@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="73749" started-at="2018-06-21T05:56:28Z" finished-at="2018-06-21T05:57:42Z">
+    <groups>
+    </groups>
+    <test name="execute" duration-ms="73749" started-at="2018-06-21T05:56:28Z" finished-at="2018-06-21T05:57:42Z">
+      <class name="sele.Parameter">
+        <test-method status="PASS" signature="execute(java.lang.String, java.lang.String)[pri:0, instance:sele.Parameter@675d3402]" name="execute" duration-ms="73717" started-at="2018-06-21T05:56:28Z" finished-at="2018-06-21T05:57:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9949990651]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[saii]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- sele.Parameter -->
+    </test> <!-- execute -->
+  </suite> <!-- Suite -->
+</testng-results>

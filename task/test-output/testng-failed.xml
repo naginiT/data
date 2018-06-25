@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="execute(failed)">
+    <parameter name="pass" value="saii"/>
+    <parameter name="user" value="9949990651"/>
+    <classes>
+      <class name="pack2.Parameter">
+        <methods>
+          <include name="execute" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- pack2.Parameter -->
+    </classes>
+  </test> <!-- execute(failed) -->
+</suite> <!-- Failed suite [Suite] -->
